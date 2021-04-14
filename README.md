@@ -1,4 +1,4 @@
 # Robofriends is a simple react app
 
-##Quick search your robofriends!
+## Quick search your robofriends!
 
