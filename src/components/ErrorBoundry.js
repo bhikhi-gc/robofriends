@@ -1,4 +1,4 @@
-import React, { Componenet } from 'react';
+import React, { Component } from 'react';
 
 class ErrorBoundry extends Component {
 	constructor(){
@@ -20,4 +20,4 @@ class ErrorBoundry extends Component {
 	}
 }
 
-export defalut ErrorBoundry;
+export default ErrorBoundry;
