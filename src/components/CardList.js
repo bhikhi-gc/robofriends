@@ -3,6 +3,7 @@ import Card from './Card';
 
 const CardList = ({ robots }) => {
 	return (
+		if(1) throw new Error('Errorrrrrrrrrrrrrrrrrr!');
 		<div>
 			{
 				robots.map( (user, i) => {
